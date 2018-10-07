@@ -1,0 +1,22 @@
+<RCC>
+    <qresource prefix="/">
+        <file>b_jiangshuai.png</file>
+        <file>b_ju.png</file>
+        <file>b_ma.png</file>
+        <file>b_pao.png</file>
+        <file>b_shi.png</file>
+        <file>b_xiang.png</file>
+        <file>b_zubing.png</file>
+        <file>r_bing.png</file>
+        <file>r_jiangshuai.png</file>
+        <file>r_ju.png</file>
+        <file>r_ma.png</file>
+        <file>r_pao.png</file>
+        <file>r_shi.png</file>
+        <file>r_xiang.png</file>
+        <file>background.png</file>
+    </qresource>
+    <qresource prefix="/new/prefix1">
+        <file>Alarm01.wav</file>
+    </qresource>
+</RCC>
